@@ -20,6 +20,10 @@
     width:100%;
     flex-direction:column;
 }
+.createheaderbutton{
+    background-color:white;
+    color:black;
+}
 .companydescription{
     margin-left: 2%;
     margin-right: 2%;
