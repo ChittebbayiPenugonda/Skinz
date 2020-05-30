@@ -1,0 +1,62 @@
+.header{
+    display:flex;
+    flex-direction: column;
+}
+.oneheader .twoheader{
+    width: 100%;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.alientechheader{
+    color:white;
+}
+.companydescription{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.companyservices{
+    background-color:#F3F3F3;
+    padding-top: 1%;
+}
+.servicesheader{
+    margin-left: 2%;
+}
+/*card stuff*/
+.services{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+}
+.card{
+    margin:2%;
+    width: 400px;
+    display:flex;
+    flex-direction:column;
+    box-shadow: 2px 5px 8px 5px #888888;
+    border-top: 5px solid #44B03D;
+}
+.cardtitle{
+    font-size: 30px;
+    padding:1%;
+}
+.cardimage{
+    width:100%;
+    height:300px;
+}
+.carddescription{
+    padding:1%;
+    height: 100px;
+    overflow:scroll;
+    overflow-x:hidden;
+}
+.cardbutton{
+    background-color: #44B03D;
+    padding:2%;
+    color:white;
+    cursor:pointer;
+}
+.cardbutton:hover{
+    background-color: #379431;
+}
