@@ -31,8 +31,7 @@
 .createheaderbutton{
     padding: 2px;
     background-color:white;
-    color:black;
-    
+    color:transparent;
 }
 .companydescription{
     margin-left: 2%;
