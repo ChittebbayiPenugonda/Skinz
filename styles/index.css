@@ -14,7 +14,8 @@
 }
 .skinzheaderbutton{
     width:100%;
-    flex-direction:column;
+    flex-direction:row;
+    justify-content:center;
 }
 .createheaderbutton{
     background-color:white;
