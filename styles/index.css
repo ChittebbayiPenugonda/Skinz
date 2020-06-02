@@ -29,9 +29,10 @@
     justify-content: center;
 }
 .createheaderbutton{
-    padding: 2px;
+    padding: 2%;
+    margin: 2%;
     background-color:white;
-    color: #2cb9f5;
+    color: #2c86f5;
 }
 .companydescription{
     margin-left: 2%;
