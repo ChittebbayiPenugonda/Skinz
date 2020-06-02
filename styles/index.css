@@ -22,10 +22,13 @@
     display:flex;
     flex-direction:column;
     justify-content: space-between;
+    padding:2px;
 }
 .createheaderbutton{
+    padding: 2px;
     background-color:white;
     color:black;
+    
 }
 .companydescription{
     margin-left: 2%;
